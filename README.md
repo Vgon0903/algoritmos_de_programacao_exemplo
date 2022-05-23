@@ -18,7 +18,8 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma](https://github.com/msc-ohata/algoritmos_de_programacao_250422/blob/main/fluxograma.png)
+![media_AC1_AC2_AG_AF](https://user-images.githubusercontent.com/103973688/169733727-dc0b7fb2-f781-4fea-af8e-083f42430b67.png)
+
 
 #Última atualização 01/05/2022
 
